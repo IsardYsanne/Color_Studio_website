@@ -3,6 +3,7 @@
 <br>
 Проект не завершен.
 <br>
+<br>
 ![color1](https://user-images.githubusercontent.com/78618492/163458464-a9b865e6-4d25-4c8b-b10b-2dc58caf7659.jpg)
 <br>
 <br>
